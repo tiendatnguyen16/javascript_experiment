@@ -1,6 +1,8 @@
 # javascriptexperiment
 Play with JavaScript, libraries, etc.
 
+There are also some notes here about Markdown.
+
 Markdown
 **Ok man**
 *Ok la*
