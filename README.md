@@ -14,4 +14,4 @@ __oh yeah__
 - This script can only be used in Postman pre-request or post-response script.
 - It cannot be run outside of Postman
 
-```newman run "Day 27- Scenario testing.postman_collection.json" --folder "New user workflow"```
+`newman run "Day 27- Scenario testing.postman_collection.json" --folder "New user workflow"`
