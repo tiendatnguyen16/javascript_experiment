@@ -18,4 +18,8 @@ __oh yeah__
 newman run "Day 27- Scenario testing.postman_collection.json" --folder "New user workflow"
 ```
 
-abc
+ABC
+
+<pre><code>newman run "Day 27- Scenario testing.postman_collection.json" --folder "New user workflow"</code></pre>
+
+
