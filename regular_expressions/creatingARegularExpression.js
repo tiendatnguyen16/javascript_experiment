@@ -35,6 +35,8 @@ console.log(str.match(re));
 RegExp(pattern, flag)
 new RegExp(pattern, flag)
 
+Using the constructor function provides runtime compilation of the regular expression. Use the constructor function when you know the regular expression pattern will be changing, or you don't know the pattern and are getting it from another source, such as user input.
+
 The RegExp pattern can be passed in the constructor either in the literal notation or as a string.
 */
 const regexSecondWay = new RegExp("First\\s"); // a string
