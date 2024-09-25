@@ -1,7 +1,7 @@
 # javascriptexperiment
 Play with JavaScript, libraries, etc.
 
-There are also some notes here about Markdown.
+There are also some notes here about Markdown.  
 
 Markdown
 **Ok man**
@@ -22,6 +22,9 @@ newman run "Day 27- Scenario testing.postman_collection.json" --folder "New user
 
 ABC
 
-<pre><code>newman run "Day 27- Scenario testing.postman_collection.json" --folder "New user workflow"</code></pre>
+<pre><code>newman run "Day 27- Scenario testing.postman_collection.json" --folder "New user workflow"</code></pre>  
+
+## Folder & Naming Convention  
+* ** Folder names should use snake case, for example, "regular_expressions"**
 
 
