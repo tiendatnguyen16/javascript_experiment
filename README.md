@@ -25,6 +25,7 @@ ABC
 <pre><code>newman run "Day 27- Scenario testing.postman_collection.json" --folder "New user workflow"</code></pre>  
 
 ## Folder & Naming Convention  
-* ** Folder names should use snake case, for example, "regular_expressions"**
+* **Folder names should use snake case, for example, "regular_expressions"**
+* **Filenames will use camel case, for example, "equalityComparison.js"**
 
 
