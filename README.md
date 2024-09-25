@@ -26,6 +26,6 @@ ABC
 
 ## Folder & Naming Convention  
 * **Folder names should use snake case, for example, "regular_expressions"**
-* **filenames will use camel case, for example, "equalityComparison.js"**
+* **Filenames will use camel case, for example, "equalityComparison.js"**
 
 
